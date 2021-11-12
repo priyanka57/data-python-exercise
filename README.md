@@ -4,4 +4,6 @@ This repo contains two folders:
 1. Question statement and input folders
 2. Solution provided with test files and virtual environment setup with instructions to follow. 
 
+Evnironment/Technologies used: RHEL 7, Python3, Pandas, OOPs programming, .CSV and .PARQUET file formats
+
 Thanks. 
